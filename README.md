@@ -1,2 +1,2 @@
 # quark-up
-THe lightest client for neutrino
+The lightest client for neutrino
